@@ -1,0 +1,1 @@
+#Print Alternate Prime Numbers till 20
